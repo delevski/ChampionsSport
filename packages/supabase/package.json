@@ -1,0 +1,20 @@
+{
+  "name": "@championsport/supabase",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.6.1",
+    "@supabase/supabase-js": "^2.50.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

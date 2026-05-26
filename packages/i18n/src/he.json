@@ -1,0 +1,83 @@
+{
+  "app": {
+    "name": "ChampionsSport",
+    "tagline": "ניחושי מונדיאל"
+  },
+  "nav": {
+    "home": "בית",
+    "matches": "משחקים",
+    "groups": "קבוצות",
+    "leaderboard": "דירוג",
+    "profile": "פרופיל",
+    "tournament": "טורניר"
+  },
+  "auth": {
+    "login": "התחברות",
+    "register": "הרשמה",
+    "logout": "התנתקות",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "google": "המשך עם Google",
+    "noAccount": "אין לך חשבון?",
+    "hasAccount": "כבר יש לך חשבון?",
+    "onboardingTitle": "בחר שם משתמש",
+    "username": "שם משתמש",
+    "continue": "המשך"
+  },
+  "home": {
+    "upcoming": "משחקים קרובים",
+    "rankings": "דירוג",
+    "activity": "פעילות אחרונה"
+  },
+  "match": {
+    "predict": "ניחוש תוצאה",
+    "locked": "הניחושים נסגרו",
+    "lockIn": "נסגר בעוד",
+    "yourPrediction": "הניחוש שלך",
+    "save": "שמור ניחוש",
+    "live": "שידור חי",
+    "finished": "הסתיים",
+    "scheduled": "מתוכנן"
+  },
+  "groups": {
+    "title": "הקבוצות שלי",
+    "create": "צור קבוצה",
+    "join": "הצטרף לקבוצה",
+    "inviteCode": "קוד הזמנה",
+    "members": "חברים",
+    "leaderboard": "לוח מובילים",
+    "activity": "פעילות",
+    "leave": "עזוב קבוצה",
+    "delete": "מחק קבוצה",
+    "kick": "הסר חבר",
+    "locked": "קבוצה נעולה"
+  },
+  "leaderboard": {
+    "global": "דירוג עולמי",
+    "group": "דירוג קבוצה",
+    "rank": "מיקום",
+    "points": "נקודות",
+    "exact": "מדויקים"
+  },
+  "tournament": {
+    "overview": "סקירת טורניר",
+    "winner": "זוכה הטורניר",
+    "topScorer": "מלך השערים",
+    "standings": "טבלה",
+    "knockout": "שלב נוקאאוט"
+  },
+  "stats": {
+    "title": "סטטיסטיקות",
+    "h2h": "עימות ישיר",
+    "form": "כושר",
+    "community": "בחירות הקהילה",
+    "topPredicted": "ניחושים פופולריים"
+  },
+  "common": {
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "retry": "נסה שוב",
+    "save": "שמור",
+    "cancel": "ביטול"
+  }
+}
